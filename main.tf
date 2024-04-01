@@ -13,7 +13,7 @@ provider "aws" {
         tags = {
         Environment = "Dev"
         Course = "CSSE6400"
-        StudentID = "s4676965"
+        StudentID = "s4759786"
         }
     }
 }
